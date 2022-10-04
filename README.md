@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-I'm Polina, a self-taught Java Developer from Belarus
+
+ I'm Polina, a self-taught Java Developer from Belarus
 
 ✨About me✨
 
@@ -16,4 +16,4 @@ And continue my studies in the Spring, Hibernate Frameworks and SQL
 
 - 📫 How to reach me: LinkedIn: www.linkedin.com/in/polina-padaliak
                        Telegram: @paintnenugen
--->
+
