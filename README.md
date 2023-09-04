@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
- I'm Polina, a self-taught JavaScript Developer from Belarus
+ I'm Palina, a self-taught JavaScript Developer from Belarus
 
 ✨About me✨
 
